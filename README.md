@@ -5,10 +5,10 @@
 💬 Blogging [net-enjoyers](https://net-enjoyers.github.io/)
 
 ---
-Do you also think that...
+**Do you also think that...**
 >It is easier to fool people than to convince them that they have been fooled?
 ---  
-Did you know that...
+**Did you know that...**
 >Making others happy makes us happier than making ourselves happy?
 <!--
 **antooni/antooni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
