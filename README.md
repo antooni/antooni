@@ -1,4 +1,19 @@
 ### Hi there 👋
+---
+🔭 Working on [L2BEAT](https://github.com/l2beat/l2beat)<br>
+🌱 Learning **Node.js**<br>
+💬 Blogging [net-enjoyers](https://net-enjoyers.github.io/)
+
+---
+Do you also think that...
+>It is easier to fool people than to convince them that they have been fooled?
+---  
+Did you know that...
+>Making others happy makes us happier than making ourselves happy
+---
+📫 How to reach me: <antoni.pawlak@pm.me>
+
+
 
 <!--
 **antooni/antooni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
