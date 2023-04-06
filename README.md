@@ -2,7 +2,6 @@
 ---
 🔭 Working on [L2Beat](https://github.com/l2beat/l2beat)<br>
 🌱 Learning **Node.js**<br>
-✍️ Blogging @ [net-enjoyers](https://net-enjoyers.github.io/)<br>
 🌐 Personal website [antooni.github.io](https://antooni.github.io/)
 
 <!--
